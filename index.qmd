@@ -1,1 +1,29 @@
+---
+title: "Catálogo Piloto de Discos Protoplanetarios"
+---
+
+## ¿Qué es este catálogo?
+
+Este proyecto presenta un **catálogo piloto de discos protoplanetarios**
+diseñado como una herramienta **educativa, computacional y reproducible**
+para enseñar procesos de formación planetaria a partir de observaciones reales.
+
+Cada disco funciona como un **caso de estudio** e incluye:
+- una ficha científica estandarizada,
+- una mini actividad de ciencia de datos,
+- y una conexión con una simulación simplificada de disco–planeta.
+
+## ¿Por qué es distinto?
+
+A diferencia de catálogos puramente observacionales, este proyecto:
+- organiza los discos por **conceptos físicos**,
+- estandariza la información como un **dataset reproducible**,
+- y está pensado explícitamente para su uso en docencia.
+
+## Cómo usar el catálogo
+
+El sitio puede recorrerse:
+- por discos individuales,
+- por módulos conceptuales,
+- o como una secuencia de clase sobre formación planetaria.
 
